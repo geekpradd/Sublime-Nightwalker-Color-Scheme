@@ -4,9 +4,9 @@ This is a modified variant of the default Flatland Color Scheme meant for noctur
 
 It is recommended to use the Flatland Theme along with this Color Scheme in Sublime Text.
 
-<img src="assets/nw1.JPG">
+<img src="assets/nw1.PNG">
 
-<img src="assets/nw3.JPG">
+<img src="assets/nw2.PNG">
 
 ###Installation
 
