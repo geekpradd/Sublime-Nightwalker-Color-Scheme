@@ -2,7 +2,11 @@
 
 This is a modified variant of the default Flatland Color Scheme meant for nocturnal coders and it is compatible with the Flatland Theme.
 
-It is recommended to use the Flatland Theme along with this Color Scheme in Sublime Text
+It is recommended to use the Flatland Theme along with this Color Scheme in Sublime Text.
+
+<img src="assets/nw1.JPG">
+
+<img src="assets/nw3.JPG">
 
 ###Installation
 
